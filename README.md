@@ -1,6 +1,9 @@
 # Mod List Extractor Created by Zanzah
+
 Works on Windows/MacOS/Linux/Headless (Discord: Zanzah#5137 if you run into any issues.)
+
 https://ko-fi.com/zanzah_z
+
 https://www.Zanzah.com/donate (PayPal)
 
 Scans your Project Zomboid Workshop downloads and sorts every workshop
