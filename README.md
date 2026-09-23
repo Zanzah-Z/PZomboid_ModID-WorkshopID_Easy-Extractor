@@ -1,7 +1,7 @@
 # Mod List Extractor Created by Zanzah
-# Works on Windows/MacOS/Linux/Headless (Discord: Zanzah#5137 if you run into any issues.)
-# https://ko-fi.com/zanzah_z
-# https://www.Zanzah.com/donate (PayPal)
+Works on Windows/MacOS/Linux/Headless (Discord: Zanzah#5137 if you run into any issues.)
+https://ko-fi.com/zanzah_z
+https://www.Zanzah.com/donate (PayPal)
 
 Scans your Project Zomboid Workshop downloads and sorts every workshop
 folder into one of three buckets, writing whatever's needed for each:
